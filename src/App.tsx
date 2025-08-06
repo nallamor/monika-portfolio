@@ -65,6 +65,13 @@ export default function App() {
 
       {/* Hero */}
       <section className="text-center py-24 px-6">
+        <div className="flex justify-center mb-6">
+          <img
+            src="/monika_avatar_final.jpg"
+            alt="Monika Roy"
+            className="w-32 h-32 rounded-full border-4 border-white shadow-md"
+          />
+        </div>
         <h2 className="text-5xl font-bold mb-4">Full Stack Java Developer</h2>
         <p className="text-xl max-w-2xl mx-auto mb-6">
           Building secure, scalable systems using Java, Spring Boot, Angular, React, AWS & Kafka.
@@ -157,11 +164,17 @@ export default function App() {
         <div className="max-w-4xl mx-auto">
           <h3 className="text-3xl font-semibold mb-6">Education</h3>
           <ul className="space-y-4">
-            <li>
-              <strong>Valparaiso University</strong> – MS in Information Technology (Indiana, USA)
+            <li className="flex items-center space-x-4">
+              <img src="/valparaiso_logo.png" alt="Valparaiso University" className="h-10 w-auto" />
+              <span>
+                <strong>Valparaiso University</strong> – MS in Information Technology (Indiana, USA)
+              </span>
             </li>
-            <li>
-              <strong>JNTU Hyderabad</strong> – B.Tech in Computer Science and Engineering
+            <li className="flex items-center space-x-4">
+              <img src="/jntu_logo.png" alt="JNTU Hyderabad" className="h-10 w-auto" />
+              <span>
+                <strong>JNTU Hyderabad</strong> – B.Tech in Computer Science and Engineering
+              </span>
             </li>
           </ul>
         </div>
