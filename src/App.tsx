@@ -137,7 +137,7 @@ export default function App() {
               Full stack web applications for internal and citizen-facing portals, focused on modernizing state workflows and digital services.
             </li>
             <li>
-              <strong>Amazon Now – Pilot Grocery Delivery</strong><br/>
+              <strong>Amazon – Amazon Now 2 Hr Grocery Delivery Pilot</strong><br/>
               Technical and process support for Amazon’s 2-hour grocery delivery app during its pilot in India, enabling countrywide scaling and customer experience enhancements.
             </li>
           </ul>
