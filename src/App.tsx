@@ -51,7 +51,7 @@ export default function App() {
     <div className="min-h-screen bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-white font-sans">
       {/* Navbar */}
       <header className="flex justify-between items-center p-6 shadow-md bg-opacity-20 backdrop-blur-lg">
-        <h1 className="text-3xl font-bold">Monika Roy</h1>
+        <h1 className="text-3xl font-bold">Monika Roy Nallamothu</h1>
         <nav className="space-x-4 text-lg">
           <a href="#about" className="hover:underline">About</a>
           <a href="#skills" className="hover:underline">Skills</a>
@@ -84,8 +84,9 @@ export default function App() {
         <div className="max-w-4xl mx-auto">
           <h3 className="text-3xl font-semibold mb-6">About Me</h3>
           <p>
-            I'm a Full Stack Java Developer with over 7 years of experience designing and scaling enterprise platforms across finance, onboarding, and healthcare domains.
-            My expertise spans Java, Spring Boot, React, Angular, and AWS. I take pride in writing secure, scalable code and collaborating with global teams to solve real-world problems.
+            I'm a Full Stack Java Developer with over 7 years of experience building secure, scalable systems for diverse domains including finance, healthcare, client onboarding, payment processing, and public sector services. 
+            I've worked on cloud-native applications, integrated Single Sign-On solutions, and contributed to event-driven architectures. My stack includes Java, Spring Boot, Angular, React, and AWS. 
+            I thrive in solving real-world problems, collaborating with global teams, and delivering high-impact solutions that scale.
           </p>
         </div>
       </section>
@@ -124,6 +125,14 @@ export default function App() {
               <strong>KeyBank – Financial Wellness</strong><br/>
               Angular & React-based frontend with Spring Boot APIs for financial guidance.
             </li>
+            <li>
+              <strong>ITD – North Dakota State Government</strong><br/>
+              Full stack web applications for internal and citizen-facing portals, focused on modernizing state workflows and digital services.
+            </li>
+            <li>
+              <strong>Amazon Now – Pilot Grocery Delivery</strong><br/>
+              Technical and process support for Amazon’s 2-hour grocery delivery app during its pilot in India, enabling countrywide scaling and customer experience enhancements.
+            </li>
           </ul>
         </div>
       </section>
@@ -137,10 +146,7 @@ export default function App() {
               <strong>Mini Project – Smart Mode Switch</strong>: A mobile app that switches a lost phone from vibrate to ring via SMS trigger. Cross-platform for iOS, Android, and Windows.
             </li>
             <li>
-              <strong>Major Project – Secure Travel Identifier</strong>: A centralized digital identity framework for travelers, inspired by Aadhaar.
-            </li>
-            <li>
-              <strong>Amazon Now (2015–2016)</strong>: Tech support for Amazon's 2-hour grocery delivery pilot, launched in Bangalore and scaled across India.
+              <strong>Major Project – Secure Travel Identifier</strong>: A centralized digital identity system designed for travelers to securely validate personal information and travel credentials across regions.
             </li>
           </ul>
         </div>
