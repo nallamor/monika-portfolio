@@ -155,6 +155,9 @@ export default function App() {
             <li>
               <strong>Major Project – Secure Travel Identifier</strong>: A centralized digital identity system designed for travelers to securely validate personal information and travel credentials across regions.
             </li>
+            <li>
+              <strong>Sports and Collectibles – Retail Website</strong>: Built a modern, responsive website for a local sports memorabilia store in Merrillville, Indiana as part of CPT. The site aimed to improve visibility, display collectibles, and enable customer engagement through a clean, user-friendly interface.
+            </li>
           </ul>
         </div>
       </section>
